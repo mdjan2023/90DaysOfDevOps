@@ -24,6 +24,8 @@ Overall, secure code review is a critical component of ensuring that an applicat
 
 I highly recommend watching this video to understand how source code analysis can lead to finding vulnerabilities in large enterprise codebases.
 
+# Hello pls update the commands used, as GIT has terminated using credentials #
+
 [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/fb-t3WWHsMQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=fb-t3WWHsMQ)
 ### Resources
 
